@@ -1,0 +1,70 @@
+*{
+   margin: 0;
+    padding: 0;
+   
+
+}
+.form{
+   padding: 80px;
+    margin-top: 20px;
+    background-color: aqua;
+    
+}
+.container{
+    margin: 20px 20px 20px 20px;
+   padding: 20PX;
+}
+.line{
+    font-size: 20px;
+    background-color: beige;
+    text-align: center;
+    
+}
+.convert{
+   
+    height: 30px;
+    width: 80px;
+    background-color:blueviolet;
+   
+    
+}
+
+.para{
+    text-align: center;
+    font-size: 30px;
+    background-color: beige;
+   border: 2px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#quiz{
+    margin-left: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 40px;
+    font-size: 20px;
+    background-color: antiquewhite
+        
+    
+}
+
+#results{
+     text-align: center;
+    font-size: 30px;
+    background-color:blueviolet;
+     margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+
+#submit{
+    color:bisque;
+    background:purple;
+    text-decoration-color: brown;
+   margin-left: 150px;
+    height: 40px;
+    margin-top: 10px;
+    width: 300px;
+   margin-bottom: 20px;
+    font-size: 18px
+}
